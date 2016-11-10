@@ -1,3 +1,5 @@
+/* お題その① ファイル作成 */
+
 package main
 
 import (
